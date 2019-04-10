@@ -1,2 +1,2 @@
 # MMStateRanking
-MM ranking of the states financially
+Makeover Monday project ranking of the states financially
